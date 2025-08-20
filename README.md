@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Keenan Putra 👋
 
 <!--
 **Keenanputra/Keenanputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@SMKWIDYAKARYA**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- emot batu
+![Good Morning]( https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybHBlYXVraDB3OG54MXJydjFkaXVzcm9tNGQ1aWhnYWViMWxkamdrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif)
+
